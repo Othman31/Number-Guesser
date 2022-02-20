@@ -2,7 +2,6 @@
 
 A simple JS app that guess numbers <br/>
 Built using a css framework "**Skeleton**" <br/>
---
 
 ---
 
