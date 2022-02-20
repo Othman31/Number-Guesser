@@ -10,8 +10,8 @@ GAME FUNCTION:
 // Game values
 let min = 1,
   max = 10,
-  winningNum = getRandomNum(min, max),
-  guessesLeft = 3;
+  winningNum = 5; //getRandomNum(min, max),
+guessesLeft = 3;
 
 // UI Elements
 const game = document.querySelector("#game"),
